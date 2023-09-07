@@ -1,0 +1,147 @@
+country_id,country,url
+1,Iceland,https://evaw-global-database.unwomen.org/en/countries/europe/iceland
+2,Norway,https://evaw-global-database.unwomen.org/en/countries/europe/norway
+3,Finland,https://evaw-global-database.unwomen.org/en/countries/europe/finland
+4,New Zealand,https://evaw-global-database.unwomen.org/en/countries/oceania/new zealand
+5,Sweden,https://evaw-global-database.unwomen.org/en/countries/europe/sweden
+6,Germany,https://evaw-global-database.unwomen.org/en/countries/europe/germany
+7,Nicaragua,https://evaw-global-database.unwomen.org/en/countries/americas/nicaragua
+8,Namibia,https://evaw-global-database.unwomen.org/en/countries/africa/namibia
+9,Lithuania,https://evaw-global-database.unwomen.org/en/countries/europe/lithuania
+10,Belgium,https://evaw-global-database.unwomen.org/en/countries/europe/belgium
+11,Ireland,https://evaw-global-database.unwomen.org/en/countries/europe/ireland
+12,Rwanda,https://evaw-global-database.unwomen.org/en/countries/africa/rwanda
+13,Latvia,https://evaw-global-database.unwomen.org/en/countries/europe/latvia
+14,Costa Rica,https://evaw-global-database.unwomen.org/en/countries/americas/costa rica
+15,United Kingdom,https://evaw-global-database.unwomen.org/en/countries/europe/united-kingdom-of-great-britain-and-northern-ireland
+16,Philippines,https://evaw-global-database.unwomen.org/en/countries/asia/philippines
+17,Albania,https://evaw-global-database.unwomen.org/en/countries/europe/albania
+18,Spain,https://evaw-global-database.unwomen.org/en/countries/europe/spain
+19,,
+20,South Africa,https://evaw-global-database.unwomen.org/en/countries/africa/south africa
+21,Switzerland,https://evaw-global-database.unwomen.org/en/countries/europe/switzerland
+22,Estonia,https://evaw-global-database.unwomen.org/en/countries/europe/estonia
+23,Denmark,https://evaw-global-database.unwomen.org/en/countries/europe/denmark
+24,Jamaica,https://evaw-global-database.unwomen.org/en/countries/americas/jamaica
+25,Australia,https://evaw-global-database.unwomen.org/en/countries/oceania/australia
+26,Mozambique,https://evaw-global-database.unwomen.org/en/countries/africa/mozambique
+27,Chile,https://evaw-global-database.unwomen.org/en/countries/americas/chile
+28,Netherlands,https://evaw-global-database.unwomen.org/en/countries/europe/netherlands
+29,Slovenia,https://evaw-global-database.unwomen.org/en/countries/europe/slovenia
+30,Canada,https://evaw-global-database.unwomen.org/en/countries/americas/canada
+31,Barbados,https://evaw-global-database.unwomen.org/en/countries/americas/barbados
+32,Portugal,https://evaw-global-database.unwomen.org/en/countries/europe/portugal
+33,Mexico,https://evaw-global-database.unwomen.org/en/countries/americas/mexico
+34,Peru,https://evaw-global-database.unwomen.org/en/countries/americas/peru
+35,Burundi,https://evaw-global-database.unwomen.org/en/countries/africa/burundi
+36,Argentina,https://evaw-global-database.unwomen.org/en/countries/americas/argentina
+37,Cabo Verde,https://evaw-global-database.unwomen.org/en/countries/africa/cabo verde
+38,Serbia,https://evaw-global-database.unwomen.org/en/countries/europe/serbia
+39,Liberia,https://evaw-global-database.unwomen.org/en/countries/africa/liberia
+40,France,https://evaw-global-database.unwomen.org/en/countries/europe/france
+41,Belarus,https://evaw-global-database.unwomen.org/en/countries/europe/belarus
+42,Colombia,https://evaw-global-database.unwomen.org/en/countries/americas/colombia
+43,United States America,https://evaw-global-database.unwomen.org/en/countries/americas/united-states-of-america
+44,Luxembourg,https://evaw-global-database.unwomen.org/en/countries/europe/luxembourg
+45,Zimbabwe,https://evaw-global-database.unwomen.org/en/countries/africa/zimbabwe
+46,Eswatini,https://evaw-global-database.unwomen.org/en/countries/africa/eswatini-kingdom-of
+47,Austria,https://evaw-global-database.unwomen.org/en/countries/europe/austria
+48,Tanzania,https://evaw-global-database.unwomen.org/en/countries/africa/united-republic-of-tanzania
+49,Singapore,https://evaw-global-database.unwomen.org/en/countries/asia/singapore
+50,Ecuador,https://evaw-global-database.unwomen.org/en/countries/americas/ecuador
+51,Madagascar,https://evaw-global-database.unwomen.org/en/countries/africa/madagascar
+52,Suriname,https://evaw-global-database.unwomen.org/en/countries/americas/suriname
+53,Honduras,https://evaw-global-database.unwomen.org/en/countries/americas/honduras
+54,Lao PDR,https://evaw-global-database.unwomen.org/en/countries/asia/lao-peoples-democratic-republic
+55,Bolivia,https://evaw-global-database.unwomen.org/en/countries/americas/bolivia-plurinational-state-of
+56,Croatia,https://evaw-global-database.unwomen.org/en/countries/europe/croatia
+57,Brazil,https://evaw-global-database.unwomen.org/en/countries/americas/brazil
+58,Panama,https://evaw-global-database.unwomen.org/en/countries/americas/panama
+59,Bangladesh,https://evaw-global-database.unwomen.org/en/countries/asia/bangladesh
+60,Poland,https://evaw-global-database.unwomen.org/en/countries/europe/poland
+61,Kazakhstan,https://evaw-global-database.unwomen.org/en/countries/asia/kazakhstan
+62,Armenia,https://evaw-global-database.unwomen.org/en/countries/asia/armenia
+63,Slovakia,https://evaw-global-database.unwomen.org/en/countries/europe/slovakia
+64,Botswana,https://evaw-global-database.unwomen.org/en/countries/africa/botswana
+65,Bulgaria,https://evaw-global-database.unwomen.org/en/countries/europe/bulgaria
+66,Ukraine,https://evaw-global-database.unwomen.org/en/countries/europe/ukraine
+67,Uruguay,https://evaw-global-database.unwomen.org/en/countries/americas/uruguay
+68,El Salvador,https://evaw-global-database.unwomen.org/en/countries/americas/el salvador
+69,Montenegro,https://evaw-global-database.unwomen.org/en/countries/europe/montenegro
+70,Malta,https://evaw-global-database.unwomen.org/en/countries/europe/malta
+71,United Arab Emirates,https://evaw-global-database.unwomen.org/en/countries/asia/united arab emirates
+72,Viet Nam,https://evaw-global-database.unwomen.org/en/countries/asia/viet nam
+73,Macedonia,https://evaw-global-database.unwomen.org/en/countries/europe/north-macedonia-republic-of
+74,Thailand,https://evaw-global-database.unwomen.org/en/countries/asia/thailand
+75,Ethiopia,https://evaw-global-database.unwomen.org/en/countries/africa/ethiopia
+76,Georgia,https://evaw-global-database.unwomen.org/en/countries/asia/georgia
+77,Kenya,https://evaw-global-database.unwomen.org/en/countries/africa/kenya
+78,Uganda,https://evaw-global-database.unwomen.org/en/countries/africa/uganda
+79,Italy,https://evaw-global-database.unwomen.org/en/countries/europe/italy
+80,Mongolia,https://evaw-global-database.unwomen.org/en/countries/asia/mongolia
+81,Dominican R.,https://evaw-global-database.unwomen.org/en/countries/americas/https://evaw-global-database.unwomen.org/en/countries/americas/dominican-republic
+82,Lesotho,https://evaw-global-database.unwomen.org/en/countries/africa/lesotho
+83,Kyrgyzstan,https://evaw-global-database.unwomen.org/en/countries/asia/kyrgyzstan
+84,Israel,https://evaw-global-database.unwomen.org/en/countries/asia/israel
+85,Zambia,https://evaw-global-database.unwomen.org/en/countries/africa/zambia
+86,Bosnia Herzegovina,https://evaw-global-database.unwomen.org/en/countries/europe/bosnia-and-herzegovina
+87,Romania,https://evaw-global-database.unwomen.org/en/countries/europe/romania
+88,Indonesia,https://evaw-global-database.unwomen.org/en/countries/asia/indonesia
+89,Belize,https://evaw-global-database.unwomen.org/en/countries/americas/belize
+90,Togo,https://evaw-global-database.unwomen.org/en/countries/africa/togo
+91,Paraguay,https://evaw-global-database.unwomen.org/en/countries/americas/paraguay
+92,Cambodia,https://evaw-global-database.unwomen.org/en/countries/asia/cambodia
+93,Greece,https://evaw-global-database.unwomen.org/en/countries/europe/greece
+94,Cameroon,https://evaw-global-database.unwomen.org/en/countries/africa/cameroon
+95,Timor-Leste,https://evaw-global-database.unwomen.org/en/countries/asia/timor-leste
+96,Brunei Darussalam,https://evaw-global-database.unwomen.org/en/countries/asia/brunei darussalam
+97,Azerbaijan,https://evaw-global-database.unwomen.org/en/countries/asia/azerbaijan
+98,Mauritius,https://evaw-global-database.unwomen.org/en/countries/africa/mauritius
+99,Hungary,https://evaw-global-database.unwomen.org/en/countries/europe/hungary
+100,Ghana,https://evaw-global-database.unwomen.org/en/countries/africa/ghana
+101,Czech R.,https://evaw-global-database.unwomen.org/en/countries/europe/czech-republic
+102,Malaysia,https://evaw-global-database.unwomen.org/en/countries/asia/malaysia
+103,Bhutan,https://evaw-global-database.unwomen.org/en/countries/asia/bhutan
+104,Senegal,https://evaw-global-database.unwomen.org/en/countries/africa/senegal
+105,R. Korea,https://evaw-global-database.unwomen.org/en/countries/asia/republic-of-korea
+106,Cyprus,https://evaw-global-database.unwomen.org/en/countries/asia/cyprus
+107,China,https://evaw-global-database.unwomen.org/en/countries/asia/china
+108,Vanuatu,https://evaw-global-database.unwomen.org/en/countries/oceania/vanuatu
+109,Burkina Faso,https://evaw-global-database.unwomen.org/en/countries/africa/burkina faso
+110,Malawi,https://evaw-global-database.unwomen.org/en/countries/africa/malawi
+111,Tajikistan,https://evaw-global-database.unwomen.org/en/countries/asia/tajikistan
+112,Sierra Leone,https://evaw-global-database.unwomen.org/en/countries/africa/sierra leone
+113,Bahrain,https://evaw-global-database.unwomen.org/en/countries/asia/bahrain
+114,Comoros,https://evaw-global-database.unwomen.org/en/countries/africa/comoros
+115,Sri Lanka,https://evaw-global-database.unwomen.org/en/countries/asia/sri lanka
+116,Nepal,https://evaw-global-database.unwomen.org/en/countries/asia/nepal
+117,Guatemala,https://evaw-global-database.unwomen.org/en/countries/americas/guatemala
+118,Angola,https://evaw-global-database.unwomen.org/en/countries/africa/angola
+119,Gambia,https://evaw-global-database.unwomen.org/en/countries/africa/gambia
+120,Kuwait,https://evaw-global-database.unwomen.org/en/countries/asia/kuwait
+121,Fiji,https://evaw-global-database.unwomen.org/en/countries/oceania/fiji
+122,Myanmar,https://evaw-global-database.unwomen.org/en/countries/asia/myanmar
+123,Côte d'Ivoire,https://evaw-global-database.unwomen.org/en/countries/africa/cote-d-ivoire
+124,Maldives,https://evaw-global-database.unwomen.org/en/countries/asia/maldives
+125,Japan,https://evaw-global-database.unwomen.org/en/countries/asia/japan
+126,Jordan,https://evaw-global-database.unwomen.org/en/countries/asia/jordan
+127,India,https://evaw-global-database.unwomen.org/en/countries/asia/india
+128,Tunisia,https://evaw-global-database.unwomen.org/en/countries/africa/tunisia
+129,Türkiye,https://evaw-global-database.unwomen.org/en/countries/asia/Turkiye
+130,Nigeria,https://evaw-global-database.unwomen.org/en/countries/africa/nigeria
+131,Saudi Arabia,https://evaw-global-database.unwomen.org/en/countries/asia/saudi arabia
+132,Lebanon,https://evaw-global-database.unwomen.org/en/countries/asia/lebanon
+133,Qatar,https://evaw-global-database.unwomen.org/en/countries/asia/qatar
+134,Egypt,https://evaw-global-database.unwomen.org/en/countries/africa/egypt
+135,Niger,https://evaw-global-database.unwomen.org/en/countries/africa/niger
+136,Morocco,https://evaw-global-database.unwomen.org/en/countries/africa/morocco
+137,Guinea,https://evaw-global-database.unwomen.org/en/countries/africa/guinea
+138,Benin,https://evaw-global-database.unwomen.org/en/countries/africa/benin
+139,Oman,https://evaw-global-database.unwomen.org/en/countries/asia/oman
+140,Congo,https://evaw-global-database.unwomen.org/en/countries/africa/congo
+141,Mali,https://evaw-global-database.unwomen.org/en/countries/africa/mali
+142,Pakistan,https://evaw-global-database.unwomen.org/en/countries/asia/pakistan
+143,Iran,https://evaw-global-database.unwomen.org/en/countries/asia/iran-islamic-republic-of
+144,Algeria,https://evaw-global-database.unwomen.org/en/countries/africa/algeria
+145,Chad,https://evaw-global-database.unwomen.org/en/countries/africa/chad
+146,Afghanistan,https://evaw-global-database.unwomen.org/en/countries/asia/afghanistan
